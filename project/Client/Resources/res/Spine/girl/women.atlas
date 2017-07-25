@@ -1,0 +1,244 @@
+
+women.png
+size: 371,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00women_arm_left
+  rotate: false
+  xy: 343, 110
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+00women_arm_right
+  rotate: false
+  xy: 343, 90
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+00women_bizi
+  rotate: false
+  xy: 190, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+00women_body
+  rotate: false
+  xy: 288, 21
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+00women_eye
+  rotate: false
+  xy: 191, 72
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+00women_eye_fadou
+  rotate: false
+  xy: 109, 34
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+00women_eye_happy
+  rotate: false
+  xy: 256, 65
+  size: 63, 23
+  orig: 63, 23
+  offset: 0, 0
+  index: -1
+00women_eye_jingxia
+  rotate: false
+  xy: 108, 5
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+00women_eye_sleep
+  rotate: false
+  xy: 176, 48
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+00women_eye_yihuo
+  rotate: false
+  xy: 174, 19
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+00women_face
+  rotate: false
+  xy: 191, 100
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+00women_leg
+  rotate: false
+  xy: 321, 68
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+00women_mouth
+  rotate: false
+  xy: 256, 90
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+00women_mouth_eat
+  rotate: false
+  xy: 267, 6
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+00women_mouth_fadou
+  rotate: false
+  xy: 350, 130
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+00women_mouth_happy
+  rotate: false
+  xy: 267, 19
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+00women_mouth_jingxia
+  rotate: false
+  xy: 289, 7
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+00women_mouth_tushui
+  rotate: false
+  xy: 350, 139
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+00women_mouth_yihuo
+  rotate: false
+  xy: 173, 2
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+00women_toufa_hou
+  rotate: false
+  xy: 273, 130
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+00women_toufa_qian
+  rotate: false
+  xy: 110, 93
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+hanzhu
+  rotate: false
+  xy: 110, 63
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+lianhong
+  rotate: false
+  xy: 273, 90
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+ui_nv_MaoZi_00
+  rotate: false
+  xy: 2, 68
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+ui_nv_Xie_00
+  rotate: false
+  xy: 239, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+women_zhiniaoku
+  rotate: false
+  xy: 328, 40
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+yanlei_nei
+  rotate: false
+  xy: 2, 6
+  size: 58, 5
+  orig: 58, 5
+  offset: 0, 0
+  index: -1
+yanlei_wai
+  rotate: false
+  xy: 173, 13
+  size: 57, 4
+  orig: 57, 4
+  offset: 0, 0
+  index: -1
+yifu_nv_shenti_00
+  rotate: false
+  xy: 2, 13
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+yifu_nv_youku_00
+  rotate: false
+  xy: 72, 37
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+yifu_nv_youxiu_00
+  rotate: false
+  xy: 241, 34
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+yifu_nv_zuoku_00
+  rotate: false
+  xy: 72, 6
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+yifu_nv_zuoxiu_00
+  rotate: false
+  xy: 328, 13
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 176, 80
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

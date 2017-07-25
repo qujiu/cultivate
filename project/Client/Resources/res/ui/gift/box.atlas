@@ -1,0 +1,27 @@
+
+box.png
+size: 242,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_advertis_button_lipinhe_01
+  rotate: false
+  xy: 2, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+common_advertis_button_lipinhe_02
+  rotate: false
+  xy: 82, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+common_advertis_button_lipinhe_03
+  rotate: false
+  xy: 162, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1

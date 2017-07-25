@@ -1,0 +1,83 @@
+
+jiaoban.png
+size: 1130,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canting_niunaiyanmai_01
+  rotate: false
+  xy: 2, 120
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_niunaiyanmai_02
+  rotate: false
+  xy: 2, 2
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_01
+  rotate: false
+  xy: 190, 120
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_02
+  rotate: false
+  xy: 190, 2
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_03
+  rotate: false
+  xy: 378, 120
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_04
+  rotate: false
+  xy: 378, 2
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_05
+  rotate: false
+  xy: 566, 120
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_06
+  rotate: false
+  xy: 566, 2
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_07
+  rotate: false
+  xy: 754, 120
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_08
+  rotate: false
+  xy: 754, 2
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+canting_yanmai_09
+  rotate: false
+  xy: 942, 120
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1

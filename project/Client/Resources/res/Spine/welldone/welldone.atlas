@@ -1,0 +1,132 @@
+
+welldone.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: true
+  xy: 546, 230
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+!1
+  rotate: true
+  xy: 612, 221
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 926, 415
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 920, 364
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 654, 284
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 463, 132
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+l1
+  rotate: true
+  xy: 852, 331
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 852, 363
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 463, 165
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+ui_item_frozen
+  rotate: false
+  xy: 2, 219
+  size: 542, 115
+  orig: 542, 115
+  offset: 0, 0
+  index: -1
+ui_item_great
+  rotate: false
+  xy: 2, 115
+  size: 459, 102
+  orig: 459, 102
+  offset: 0, 0
+  index: -1
+ui_item_not freeze
+  rotate: false
+  xy: 2, 2
+  size: 440, 111
+  orig: 440, 111
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 546, 261
+  size: 106, 73
+  orig: 106, 73
+  offset: 0, 0
+  index: -1
+welldone
+  rotate: true
+  xy: 745, 415
+  size: 601, 179
+  orig: 601, 179
+  offset: 0, 0
+  index: -1
+welldone1
+  rotate: false
+  xy: 2, 677
+  size: 741, 339
+  orig: 741, 339
+  offset: 0, 0
+  index: -1
+welldone2
+  rotate: false
+  xy: 2, 336
+  size: 741, 339
+  orig: 741, 339
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 745, 338
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 926, 480
+  size: 536, 83
+  orig: 536, 83
+  offset: 0, 0
+  index: -1

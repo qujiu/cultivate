@@ -1,0 +1,83 @@
+
+fengmian.png
+size: 929,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01man_arm_left
+  rotate: false
+  xy: 818, 129
+  size: 107, 78
+  orig: 107, 78
+  offset: 0, 0
+  index: -1
+01man_arm_right
+  rotate: false
+  xy: 369, 29
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+01man_bizi
+  rotate: false
+  xy: 478, 20
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+01man_body
+  rotate: false
+  xy: 369, 108
+  size: 170, 189
+  orig: 170, 189
+  offset: 0, 0
+  index: -1
+01man_eye
+  rotate: false
+  xy: 541, 175
+  size: 275, 122
+  orig: 275, 122
+  offset: 0, 0
+  index: -1
+01man_face
+  rotate: false
+  xy: 2, 2
+  size: 365, 295
+  orig: 365, 295
+  offset: 0, 0
+  index: -1
+01man_leg
+  rotate: false
+  xy: 818, 209
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+01man_mouth
+  rotate: false
+  xy: 726, 133
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+01man_toufa
+  rotate: false
+  xy: 541, 46
+  size: 183, 127
+  orig: 183, 127
+  offset: 0, 0
+  index: -1
+man_zhiniaoku
+  rotate: false
+  xy: 726, 11
+  size: 178, 116
+  orig: 178, 116
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 478, 60
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

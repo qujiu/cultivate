@@ -1,0 +1,34 @@
+
+start.png
+size: 717,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+start_01
+  rotate: false
+  xy: 328, 2
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+start_02
+  rotate: false
+  xy: 551, 88
+  size: 164, 169
+  orig: 164, 169
+  offset: 0, 0
+  index: -1
+start_03
+  rotate: false
+  xy: 328, 102
+  size: 221, 155
+  orig: 221, 155
+  offset: 0, 0
+  index: -1
+start_04
+  rotate: false
+  xy: 2, 13
+  size: 324, 244
+  orig: 324, 244
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,912 @@
+<Solution>
+  <PropertyGroup Name="BabyCare" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="animation">
+          <Folder Name="canting">
+            <Folder Name="mianbao">
+              <Image Name="ani_item_jiaobanshao2.png" />
+              <Image Name="ani_item_jiaobanshao2_0.png" />
+              <Image Name="ani_tishi_03.png" />
+              <Image Name="dot.png" />
+              <Image Name="mianbao.png" />
+              <Image Name="panzi.png" />
+              <Image Name="ui_item_cailiao_milk_1.png" />
+              <Image Name="ui_item_cailiao_milk_nosd.png" />
+              <Image Name="ui_item_cailiao_milk_sd.png" />
+              <Image Name="ui_item_guojiang.png" />
+              <Image Name="ui_item_guojiang_sd.png" />
+              <Image Name="ui_item_guojiangping.png" />
+              <Image Name="ui_item_jiang.png" />
+              <Image Name="ui_item_jiaobanshao2.png" />
+              <Image Name="ui_item_maipian.png" />
+              <Image Name="ui_item_maipian_sd.png" />
+              <Image Name="ui_item_panzi.png" />
+              <Image Name="ui_item_panzi_sd.png" />
+              <Image Name="ui_item_wan.png" />
+              <Image Name="ui_item_wan_1.png" />
+              <Image Name="ui_item_wan_2.png" />
+              <Image Name="ui_item_wan_3.png" />
+              <Image Name="ui_item_wan_4.png" />
+              <Image Name="ui_item_wan_daoru_1.png" />
+              <Image Name="ui_item_wan_daoru_2.png" />
+              <Image Name="ui_item_wan_daoru_3.png" />
+              <Image Name="ui_item_wan_daoru_4.png" />
+              <Image Name="zhuozi.png" />
+            </Folder>
+            <Image Name="item_zhanshizhuo.png" />
+            <Image Name="item_zhuozi.png" />
+          </Folder>
+          <Folder Name="role">
+            <Folder Name="aniboy">
+              <Image Name="ani_boy_arm_01.png" />
+              <Image Name="ani_boy_arm_02.png" />
+              <Image Name="ani_boy_arm_hug_01.png" />
+              <Image Name="ani_boy_body.png" />
+              <Image Name="ani_boy_body_hug.png" />
+              <Image Name="ani_boy_body_underwater.png" />
+              <Image Name="ani_boy_eye_doubt.png" />
+              <Image Name="ani_boy_eye_happy.png" />
+              <Image Name="ani_boy_eye_normal_01.png" />
+              <Image Name="ani_boy_eye_normal_02.png" />
+              <Image Name="ani_boy_eye_shake.png" />
+              <Image Name="ani_boy_eye_tear.png" />
+              <Image Name="ani_boy_eye_tear_01.png" />
+              <Image Name="ani_boy_eye_tear_02.png" />
+              <Image Name="ani_boy_hair_01.png" />
+              <Image Name="ani_boy_hair_02.png" />
+              <Image Name="ani_boy_hair_03.png" />
+              <Image Name="ani_boy_head_01.png" />
+              <Image Name="ani_boy_head_sweat_01.png" />
+              <Image Name="ani_boy_head_sweat_02.png" />
+              <Image Name="ani_boy_leg_01.png" />
+              <Image Name="ani_boy_leg_02.png" />
+              <Image Name="ani_boy_leg_underwater_01.png" />
+              <Image Name="ani_boy_leg_underwater_02.png" />
+              <Image Name="ani_boy_mouth_doubt_01.png" />
+              <Image Name="ani_boy_mouth_doubt_02.png" />
+              <Image Name="ani_boy_mouth_eat_01.png" />
+              <Image Name="ani_boy_mouth_eat_02.png" />
+              <Image Name="ani_boy_mouth_eat_03.png" />
+              <Image Name="ani_boy_mouth_eat_04.png" />
+              <Image Name="ani_boy_mouth_happy_01.png" />
+              <Image Name="ani_boy_mouth_normal_01.png" />
+              <Image Name="ani_boy_mouth_shake_01.png" />
+              <Image Name="ani_boy_mouth_shake_02.png" />
+              <Image Name="ani_boy_mouth_startle_01.png" />
+              <Image Name="ani_boy_mouth_startle_02.png" />
+              <Image Name="ani_boy_mouth_tear_01.png" />
+              <Image Name="ani_boy_mouth_tear_02.png" />
+              <Image Name="ani_boy_mouth_teeth_01.png" />
+              <Image Name="ani_boy_mouth_teeth_02.png" />
+              <Image Name="ani_boy_nose_01.png" />
+            </Folder>
+            <Folder Name="anicommon">
+              <Image Name="ani_mouth_teeth_foam_01.png" />
+              <Image Name="ani_mouth_teeth_foam_02.png" />
+              <Image Name="ani_piss_01.png" />
+              <Image Name="ani_piss_02.png" />
+              <Image Name="ani_sleep_1.png" />
+              <Image Name="ani_sleep_2.png" />
+              <Image Name="ani_sleep_3.png" />
+              <Image Name="ani_sweat.png" />
+            </Folder>
+            <Folder Name="anigirl">
+              <Image Name="ani_girl_arm_01.png" />
+              <Image Name="ani_girl_arm_02.png" />
+              <Image Name="ani_girl_arm_hug_01.png" />
+              <Image Name="ani_girl_body.png" />
+              <Image Name="ani_girl_body_hug.png" />
+              <Image Name="ani_girl_body_underwater.png" />
+              <Image Name="ani_girl_eye_doubt.png" />
+              <Image Name="ani_girl_eye_happy.png" />
+              <Image Name="ani_girl_eye_normal_01.png" />
+              <Image Name="ani_girl_eye_normal_02.png" />
+              <Image Name="ani_girl_eye_shake.png" />
+              <Image Name="ani_girl_eye_tear.png" />
+              <Image Name="ani_girl_eye_tear_01.png" />
+              <Image Name="ani_girl_eye_tear_02.png" />
+              <Image Name="ani_girl_hair_01_1.png" />
+              <Image Name="ani_girl_hair_01_2.png" />
+              <Image Name="ani_girl_hair_02_1.png" />
+              <Image Name="ani_girl_hair_02_2.png" />
+              <Image Name="ani_girl_hair_03.png" />
+              <Image Name="ani_girl_head_01.png" />
+              <Image Name="ani_girl_head_sweat_01.png" />
+              <Image Name="ani_girl_head_sweat_02.png" />
+              <Image Name="ani_girl_leg_01.png" />
+              <Image Name="ani_girl_leg_02.png" />
+              <Image Name="ani_girl_leg_underwater_01.png" />
+              <Image Name="ani_girl_leg_underwater_02.png" />
+              <Image Name="ani_girl_mouth_doubt_01.png" />
+              <Image Name="ani_girl_mouth_doubt_02.png" />
+              <Image Name="ani_girl_mouth_eat_01.png" />
+              <Image Name="ani_girl_mouth_eat_02.png" />
+              <Image Name="ani_girl_mouth_eat_03.png" />
+              <Image Name="ani_girl_mouth_eat_04.png" />
+              <Image Name="ani_girl_mouth_happy_01.png" />
+              <Image Name="ani_girl_mouth_normal_01.png" />
+              <Image Name="ani_girl_mouth_shake_01.png" />
+              <Image Name="ani_girl_mouth_shake_02.png" />
+              <Image Name="ani_girl_mouth_startle_01.png" />
+              <Image Name="ani_girl_mouth_startle_02.png" />
+              <Image Name="ani_girl_mouth_tear_01.png" />
+              <Image Name="ani_girl_mouth_tear_02.png" />
+              <Image Name="ani_girl_mouth_teeth_01.png" />
+              <Image Name="ani_girl_mouth_teeth_02.png" />
+              <Image Name="ani_girl_nose_01.png" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Folder Name="anirole">
+          <Image Name="ani_mouth_teeth_foam_01.png" />
+          <Image Name="ani_mouth_teeth_foam_02.png" />
+          <Image Name="ani_piss_01.png" />
+          <Image Name="ani_piss_02.png" />
+          <Image Name="ani_sweat.png" />
+        </Folder>
+        <Folder Name="effect">
+          <PlistParticleFile Name="effect_hair_wancheng.plist" />
+          <PlistParticleFile Name="effect_maipian.plist" />
+          <PlistParticleFile Name="effect_niunai.plist" />
+          <PlistParticleFile Name="effect_signin.plist" />
+          <PlistParticleFile Name="effect_start.plist" />
+          <PlistParticleFile Name="effect_start_xunhuan.plist" />
+          <PlistParticleFile Name="effect_xizaojian_husareqi.plist" />
+          <PlistParticleFile Name="effect_xizaojian_shui.plist" />
+          <PlistParticleFile Name="effect_yinfu01.plist" />
+          <PlistParticleFile Name="effect_yinfu02.plist" />
+          <PlistParticleFile Name="effect_yinfu03.plist" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="arial.ttf" />
+          <TTF Name="berlin sans fb.ttf" />
+          <TTF Name="ERASBD.TTF" />
+          <TTF Name="Marker Felt.ttf" />
+          <Fnt Name="ui_common_gold_number.fnt" />
+          <Image Name="ui_common_gold_number_0.png" />
+        </Folder>
+        <Folder Name="imgs">
+          <Folder Name="bg">
+            <Image Name="CanZhuo_bg.png" />
+            <Image Name="fengmian_bg.png" />
+            <Image Name="HuanZhuangJian_bg.png" />
+            <Image Name="LoaDing_bg.png" />
+            <Image Name="role_select_bg.png" />
+            <Image Name="select_room_bg_1.png" />
+            <Image Name="select_room_bg_2.png" />
+            <Image Name="select_room_bg_3.png" />
+            <Image Name="select_room_bg_4.png" />
+            <Image Name="select_room_bg_5.png" />
+            <Image Name="ui_Chuang.png" />
+            <Image Name="ui_Chuang_LanGan.png" />
+            <Image Name="WanJuJian_bg.png" />
+            <Image Name="WoShi_bg.png" />
+            <Image Name="XiYuJian_bg.png" />
+          </Folder>
+          <Folder Name="home">
+            <Image Name="LoGo.png" />
+          </Folder>
+          <Folder Name="loading">
+            <Image Name="loading.png" />
+            <Image Name="loading_Dian.png" />
+          </Folder>
+          <Folder Name="menu">
+            <Folder Name="common_menu">
+              <Image Name="home_more_1.png" />
+              <Image Name="home_more_2.png" />
+              <Image Name="home_music_close.png" />
+              <Image Name="home_music_close2.png" />
+              <Image Name="home_music_on.png" />
+              <Image Name="home_music_on2.png" />
+              <Image Name="home_rate_1.png" />
+              <Image Name="home_rate_2.png" />
+              <Image Name="home_share_1.png" />
+              <Image Name="home_share_2.png" />
+              <Image Name="menu_frame_play.png" />
+            </Folder>
+            <Folder Name="home_menu">
+              <Image Name="menu_frame_arrow_left_1.png" />
+              <Image Name="menu_frame_arrow_left_2.png" />
+              <Image Name="menu_frame_arrow_right_1.png" />
+              <Image Name="menu_frame_arrow_right_2.png" />
+              <Image Name="menu_frame_camera_1.png" />
+              <Image Name="menu_frame_camera_2.png" />
+              <Image Name="menu_frame_colse_1.png" />
+              <Image Name="menu_frame_colse_2.png" />
+              <Image Name="menu_frame_home_1.png" />
+              <Image Name="menu_frame_home_2.png" />
+              <Image Name="menu_frame_menu_1.png" />
+              <Image Name="menu_frame_menu_2.png" />
+              <Image Name="menu_frame_music_1.png" />
+              <Image Name="menu_frame_music_2.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="photo">
+            <Image Name="paizhao_close_01.png" />
+            <Image Name="paizhao_email_01.png" />
+            <Image Name="paizhao_email_02.png" />
+            <Image Name="paizhao_photo_01.png" />
+            <Image Name="paizhao_photo_02.png" />
+            <Image Name="photo_bg.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="kouqiang">
+          <Image Name="Ani_tankuang_YaChiGuaiWu_1.png" />
+          <Image Name="Ani_tankuang_YaChiGuaiWu_2.png" />
+          <Image Name="Ani_tankuang_YaChiGuaiWu_3.png" />
+          <Image Name="Ani_tankuang_zui.png" />
+          <Image Name="ya_heidina.png" />
+          <Image Name="ya_wugou.png" />
+        </Folder>
+        <Folder Name="Particles">
+          <PlistParticleFile Name="effect_hair_wancheng.plist" />
+          <PlistParticleFile Name="effect_huasa.plist" />
+          <PlistParticleFile Name="effect_maipian.plist" />
+          <PlistParticleFile Name="effect_niunai.plist" />
+          <PlistParticleFile Name="effect_start.plist" />
+          <PlistParticleFile Name="effect_start_xunhuan.plist" />
+          <PlistParticleFile Name="effect_tuowei.plist" />
+          <PlistParticleFile Name="effect_xizao_paomo.plist" />
+          <PlistParticleFile Name="effect_xizaojian_husareqi.plist" />
+          <PlistParticleFile Name="effect_xizaojian_shui.plist" />
+          <PlistParticleFile Name="effect_yinfu01.plist" />
+          <PlistParticleFile Name="effect_yinfu02.plist" />
+          <PlistParticleFile Name="effect_yinfu03.plist" />
+        </Folder>
+        <Folder Name="settingbox">
+          <Image Name="Settings_anniu_f_off.png" />
+          <Image Name="Settings_anniu_f_on.png" />
+          <Image Name="Settings_anniu_forparents.png" />
+          <Image Name="Settings_anniu_off.png" />
+          <Image Name="Settings_anniu_on.png" />
+          <Image Name="Settings_anniu_rate.png" />
+          <Image Name="Settings_bg.png" />
+          <Image Name="settings_fb.png" />
+          <Image Name="settings_share.png" />
+          <Image Name="Settings_ti.png" />
+          <Image Name="Settings_word_music.png" />
+          <Image Name="Settings_word_sound.png" />
+        </Folder>
+        <Folder Name="Spine">
+          <Folder Name="fengmian">
+            <Image Name="chuang01.png" />
+            <Image Name="chuang02.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="ui">
+          <Folder Name="canzhuo">
+            <Folder Name="canting">
+              <Image Name="ui_CanJin_1_1.png" />
+              <Image Name="ui_CanJin_2_1.png" />
+              <Image Name="ui_CanJin_3_1.png" />
+              <Image Name="ui_CanJin_4_1.png" />
+              <Image Name="ui_CanJin_5_1.png" />
+            </Folder>
+            <Folder Name="mianbao">
+              <Image Name="Ani_guanbianniu.png" />
+              <Image Name="ani_item_BoLuo.png" />
+              <Image Name="ani_item_BoLuo_1.png" />
+              <Image Name="ani_item_BoLuo_2.png" />
+              <Image Name="ani_item_CaoMei.png" />
+              <Image Name="ani_item_CaoMei_1.png" />
+              <Image Name="ani_item_CaoMei_2.png" />
+              <Image Name="ani_item_ChengZi.png" />
+              <Image Name="ani_item_ChengZi_1.png" />
+              <Image Name="ani_item_ChengZi_2.png" />
+              <Image Name="ani_item_DieZi.png" />
+              <Image Name="ani_item_ShiLiu.png" />
+              <Image Name="ani_item_ShiLiu_1.png" />
+              <Image Name="ani_item_ShiLiu_2.png" />
+              <Image Name="ani_item_xiangxiang.png" />
+              <Image Name="ani_item_XiGua.png" />
+              <Image Name="ani_item_XiGua_1.png" />
+              <Image Name="ani_item_XiGua_2.png" />
+              <Image Name="item_panzi.png" />
+              <Image Name="item_panzi_shaded.png" />
+              <Image Name="jam_layer.png" />
+              <Image Name="jam_ping.png" />
+              <Image Name="jam_pinged.png" />
+              <Image Name="mianbao1.png" />
+              <Image Name="mianbaoyingzi.png" />
+              <Image Name="tanchukuang_gouwu.png" />
+              <Image Name="ui_item_guojiang_di.png" />
+              <Image Name="ui_item_guojiang_middle.png" />
+              <Image Name="ui_item_guojiang_up.png" />
+              <Image Name="ui_item_guojiangping.png" />
+              <Image Name="ui_item_guojiangping_di.png" />
+              <Image Name="zhuozi.png" />
+            </Folder>
+            <Image Name="ani_item_HeNai_1.png" />
+            <Image Name="ani_item_HeNai_2.png" />
+            <Image Name="ani_item_HeNai_3.png" />
+            <Image Name="ani_item_HeNai_4.png" />
+            <Image Name="ani_item_HeNai_5.png" />
+            <Image Name="ani_item_Kuang.png" />
+            <Image Name="ani_item_NaiPing.png" />
+            <Image Name="ani_item_NaiPing_1.png" />
+            <Image Name="ani_item_NaiPing_2.png" />
+            <Image Name="ani_item_NaiPing_4.png" />
+            <Image Name="ani_item_NaiPing_5.png" />
+            <Image Name="ani_item_NaiPing_HuangDong_1.png" />
+            <Image Name="ani_item_NaiPing_HuangDong_2.png" />
+            <Image Name="ani_item_ShaoZi_1_1.png" />
+            <Image Name="ani_item_ShaoZi_1_2.png" />
+            <Image Name="ani_item_ShaoZi_2.png" />
+            <Image Name="ani_item_ShaoZi_3.png" />
+            <Image Name="ani_item_ShaoZi_4.png" />
+            <Image Name="ani_item_Wan.png" />
+            <Image Name="canting_mianbao_01.png" />
+            <Image Name="canting_mianbao_02.png" />
+            <Image Name="canting_mianbao_03.png" />
+            <Image Name="canting_niunai_01.png" />
+            <Image Name="canting_niunaiyanmai_01.png" />
+            <Image Name="canting_yanmai_09.png" />
+            <Image Name="item_zhanshizhuo.png" />
+            <Image Name="item_zhuozi.png" />
+            <Image Name="ui_item_BanZi.png" />
+            <Image Name="ui_item_cailiao_milk_nosd.png" />
+            <Image Name="ui_item_CanZhuo.png" />
+            <Image Name="ui_item_GuanZi.png" />
+            <Image Name="ui_item_JiaZi.png" />
+            <Image Name="ui_item_maipian.png" />
+            <Image Name="ui_item_PingGuo.png" />
+            <Image Name="ui_item_ShaoZi.png" />
+            <Image Name="ui_item_XiangJiao.png" />
+            <Image Name="ui_item_ZhiJin.png" />
+            <Image Name="ui_item_ZhiJin_1.png" />
+            <Image Name="ui_item_ZhiJin_2.png" />
+            <Image Name="ui_item_ZhiJin_3.png" />
+            <Image Name="ui_item_ZhiJin_4.png" />
+          </Folder>
+          <Folder Name="common">
+            <Folder Name="prop">
+              <Image Name="ui_common_prop_catspaw.png" />
+              <Image Name="ui_common_prop_catspaw_arrow_left.png" />
+              <Image Name="ui_common_prop_catspaw_arrow_right.png" />
+              <Image Name="ui_common_prop_strip.png" />
+            </Folder>
+            <Image Name="ani_biaojia_he.png" />
+            <Image Name="Ani_guanbianniu.png" />
+            <Image Name="Ani_jiahao.png" />
+            <Image Name="Ani_jinbi.png" />
+            <Image Name="Ani_jindutiao_diban.png" />
+            <Image Name="Ani_jindutiao_tiao.png" />
+            <Image Name="Ani_suihao.png" />
+            <Image Name="Ani_tankuang_YaChiGuaiWu_1.png" />
+            <Image Name="common_rate_xingxing.png" />
+            <Image Name="commonl_button_shipin.png" />
+            <Image Name="commonl_button_suo.png" />
+            <Image Name="cunbendi.png" />
+            <Image Name="fangyingji.png" />
+            <Image Name="fb1.png" />
+            <Image Name="fb2.png" />
+            <Image Name="fbduigou.png" />
+            <Image Name="FENXIANG.png" />
+            <Image Name="free.png" />
+            <Image Name="freecoins.png" />
+            <Image Name="freecoinsdikuang.png" />
+            <Image Name="GET IT.png" />
+            <Image Name="get100 jinbi.png" />
+            <Image Name="get100.png" />
+            <Image Name="HOME.png" />
+            <Image Name="jiantou.png" />
+            <Image Name="jibidiban.png" />
+            <Image Name="jifenqiang.png" />
+            <Image Name="later.png" />
+            <Image Name="NO.png" />
+            <Image Name="offer.png" />
+            <Image Name="offers1.png" />
+            <Image Name="OK.png" />
+            <Image Name="paizhaokuang.png" />
+            <Image Name="pingjiaw.png" />
+            <Image Name="ratenow.png" />
+            <Image Name="SHANGCHENG.png" />
+            <Image Name="shangdian.png" />
+            <Image Name="shangdiandiban.png" />
+            <Image Name="SHIOPINX2.png" />
+            <Image Name="suzi.png" />
+            <Image Name="tanchukuang.png" />
+            <Image Name="ui_biao_shuzi.png" />
+            <Image Name="ui_btn_caidan_1.png" />
+            <Image Name="ui_btn_fanhui_1.png" />
+            <Image Name="ui_btn_gengduo_1.png" />
+            <Image Name="ui_btn_jinbi_1.png" />
+            <Image Name="ui_btn_jinbi_2.png" />
+            <Image Name="ui_btn_lock.png" />
+            <Image Name="ui_btn_youxi.png" />
+            <Image Name="ui_button_free.png" />
+            <Image Name="ui_caidai.png" />
+            <Image Name="ui_common_dialog.png" />
+            <Image Name="ui_common_tips.png" />
+            <Image Name="ui_item_for.png" />
+            <Image Name="ui_number1.png" />
+            <Image Name="unlock.png" />
+            <Image Name="xiaokuang.png" />
+            <Image Name="yes.png" />
+            <Image Name="youjian.png" />
+            <Image Name="yuansheng.png" />
+          </Folder>
+          <Folder Name="dress">
+            <Image Name="ui_item_BanZi.png" />
+            <Image Name="ui_item_Che.png" />
+            <Image Name="ui_item_HaiXing.png" />
+            <Image Name="ui_item_JiaFa.png" />
+            <Image Name="ui_item_ku.png" />
+            <Image Name="ui_item_LaoShu.png" />
+            <Image Name="ui_item_MaoZi_Xiao.png" />
+            <Image Name="ui_item_QiuPai.png" />
+            <Image Name="ui_item_ShuZi.png" />
+            <Image Name="ui_item_ShuZi_2.png" />
+            <Image Name="ui_item_XiangJi.png" />
+            <Image Name="ui_item_Xie.png" />
+            <Image Name="ui_item_xiuzi.png" />
+            <Image Name="ui_item_YanJing_Xiao.png" />
+            <Image Name="ui_item_YiJia.png" />
+            <Image Name="ui_nan_MaoZi_01.png" />
+            <Image Name="ui_nan_MaoZi_02.png" />
+            <Image Name="ui_nan_MaoZi_03.png" />
+            <Image Name="ui_nan_MaoZi_04.png" />
+            <Image Name="ui_nan_MaoZi_05.png" />
+            <Image Name="ui_nan_Xie_01.png" />
+            <Image Name="ui_nan_Xie_02.png" />
+            <Image Name="ui_nan_Xie_03.png" />
+            <Image Name="ui_nan_Xie_04.png" />
+            <Image Name="ui_nan_Xie_05.png" />
+            <Image Name="ui_nv_MaoZi_01.png" />
+            <Image Name="ui_nv_MaoZi_02.png" />
+            <Image Name="ui_nv_MaoZi_03.png" />
+            <Image Name="ui_nv_MaoZi_04.png" />
+            <Image Name="ui_nv_MaoZi_05.png" />
+            <Image Name="ui_nv_Xie_01.png" />
+            <Image Name="ui_nv_Xie_02.png" />
+            <Image Name="ui_nv_Xie_03.png" />
+            <Image Name="ui_nv_Xie_04.png" />
+            <Image Name="ui_nv_Xie_05.png" />
+            <Image Name="women_zhiniaoku.png" />
+            <Image Name="yifu_nan_shenti_01.png" />
+            <Image Name="yifu_nan_shenti_02.png" />
+            <Image Name="yifu_nan_shenti_03.png" />
+            <Image Name="yifu_nan_shenti_04.png" />
+            <Image Name="yifu_nan_shenti_05.png" />
+            <Image Name="yifu_nan_youku_01.png" />
+            <Image Name="yifu_nan_youku_02.png" />
+            <Image Name="yifu_nan_youku_03.png" />
+            <Image Name="yifu_nan_youku_04.png" />
+            <Image Name="yifu_nan_youku_05.png" />
+            <Image Name="yifu_nan_youxiu_01.png" />
+            <Image Name="yifu_nan_youxiu_02.png" />
+            <Image Name="yifu_nan_youxiu_03.png" />
+            <Image Name="yifu_nan_youxiu_04.png" />
+            <Image Name="yifu_nan_youxiu_05.png" />
+            <Image Name="yifu_nan_zuoku_01.png" />
+            <Image Name="yifu_nan_zuoku_02.png" />
+            <Image Name="yifu_nan_zuoku_03.png" />
+            <Image Name="yifu_nan_zuoku_04.png" />
+            <Image Name="yifu_nan_zuoku_05.png" />
+            <Image Name="yifu_nan_zuoxiu_01.png" />
+            <Image Name="yifu_nan_zuoxiu_02.png" />
+            <Image Name="yifu_nan_zuoxiu_03.png" />
+            <Image Name="yifu_nan_zuoxiu_04.png" />
+            <Image Name="yifu_nan_zuoxiu_05.png" />
+            <Image Name="yifu_nv_shenti_01.png" />
+            <Image Name="yifu_nv_shenti_02.png" />
+            <Image Name="yifu_nv_shenti_03.png" />
+            <Image Name="yifu_nv_shenti_04.png" />
+            <Image Name="yifu_nv_shenti_05.png" />
+            <Image Name="yifu_nv_youku_01.png" />
+            <Image Name="yifu_nv_youku_02.png" />
+            <Image Name="yifu_nv_youku_03.png" />
+            <Image Name="yifu_nv_youku_04.png" />
+            <Image Name="yifu_nv_youxiu_01.png" />
+            <Image Name="yifu_nv_youxiu_02.png" />
+            <Image Name="yifu_nv_youxiu_03.png" />
+            <Image Name="yifu_nv_youxiu_04.png" />
+            <Image Name="yifu_nv_youxiu_05.png" />
+            <Image Name="yifu_nv_zuoku_01.png" />
+            <Image Name="yifu_nv_zuoku_02.png" />
+            <Image Name="yifu_nv_zuoku_03.png" />
+            <Image Name="yifu_nv_zuoku_04.png" />
+            <Image Name="yifu_nv_zuoxiu_01.png" />
+            <Image Name="yifu_nv_zuoxiu_02.png" />
+            <Image Name="yifu_nv_zuoxiu_03.png" />
+            <Image Name="yifu_nv_zuoxiu_04.png" />
+            <Image Name="yifu_nv_zuoxiu_05.png" />
+          </Folder>
+          <Folder Name="gift">
+            <Image Name="baoxiang_guang.png" />
+            <Image Name="baoxiang_shadow.png" />
+            <File Name="box.atlas" />
+            <File Name="box.json" />
+            <Image Name="box.png" />
+            <Image Name="common_button_1.png" />
+            <Image Name="common_button_1_0.png" />
+            <Image Name="common_button_1_1.png" />
+            <Image Name="common_button_2.png" />
+            <Image Name="common_button_2_0.png" />
+            <Image Name="common_button_2_1.png" />
+            <Image Name="common_button_3.png" />
+            <Image Name="common_button_3_0.png" />
+            <Image Name="common_button_3_1.png" />
+            <Image Name="common_button_4.png" />
+            <Image Name="common_button_4_0.png" />
+            <Image Name="common_button_4_1.png" />
+            <Image Name="common_button_baoxiang.png" />
+            <Image Name="common_shuzi.png" />
+            <PlistParticleFile Name="effect_ star1.plist" />
+            <PlistParticleFile Name="effect_baozha_01.plist" />
+            <PlistParticleFile Name="effect_box_glow.plist" />
+            <PlistParticleFile Name="effect_box_star.plist" />
+            <Image Name="jiesuan_jia.png" />
+            <Project Name="LuckyAction.csd" Type="Node" />
+            <Image Name="pick.png" />
+            <Image Name="uire.png" />
+          </Folder>
+          <Folder Name="role">
+            <Image Name="ani_xuanze_renwu_ui_02.png" />
+            <Image Name="ani_xuanze_renwu_ui_heiying.png" />
+            <Image Name="ani_xuanze_renwu_ui_suozi.png" />
+            <Image Name="nanhai_01.png" />
+            <Image Name="nanhai_02.png" />
+            <Image Name="nanhai_03.png" />
+            <Image Name="nvhai_01.png" />
+            <Image Name="nvhai_02.png" />
+            <Image Name="nvhai_03.png" />
+            <Image Name="touxiang_dizuo.png" />
+            <Image Name="touxiang_nanhai_01.png" />
+            <Image Name="touxiang_nanhai_02.png" />
+            <Image Name="touxiang_nanhai_03.png" />
+            <Image Name="touxiang_nvhai_01.png" />
+            <Image Name="touxiang_nvhai_02.png" />
+            <Image Name="touxiang_nvhai_03.png" />
+          </Folder>
+          <Folder Name="select">
+            <Image Name="canting.png" />
+            <Image Name="canting_unlock.png" />
+            <Image Name="dress.png" />
+            <Image Name="dress_unlock.png" />
+            <Image Name="ground.png" />
+            <Image Name="jiantou.png" />
+            <Image Name="OK.png" />
+            <Image Name="shangdiandiban.png" />
+            <Image Name="suo.png" />
+            <Image Name="ui_canting.png" />
+            <Image Name="ui_huanyijian.png" />
+            <Image Name="ui_wamju.png" />
+            <Image Name="ui_woshi.png" />
+            <Image Name="ui_yushi.png" />
+            <Image Name="wanju.png" />
+            <Image Name="wanju_unclock.png" />
+            <Image Name="woshi.png" />
+            <Image Name="yushi.png" />
+            <Image Name="yushi_unlock.png" />
+          </Folder>
+          <Folder Name="settingbox">
+            <Image Name="Ani_guanbianniu.png" />
+            <Image Name="Settings_anniu_f_off.png" />
+            <Image Name="Settings_anniu_f_on.png" />
+            <Image Name="Settings_anniu_forparents.png" />
+            <Image Name="Settings_anniu_off.png" />
+            <Image Name="Settings_anniu_on.png" />
+            <Image Name="Settings_anniu_rate.png" />
+            <Image Name="Settings_bg.png" />
+            <Image Name="settings_fb.png" />
+            <Image Name="settings_share.png" />
+            <Image Name="Settings_ti.png" />
+            <Image Name="Settings_word_music.png" />
+            <Image Name="Settings_word_sound.png" />
+          </Folder>
+          <Folder Name="sign">
+            <Image Name="100.png" />
+            <Image Name="3days.png" />
+            <Image Name="7days.png" />
+            <Project Name="ani_lizi.csd" Type="Node" />
+            <Image Name="day7dikuang.png" />
+            <Image Name="gat.png" />
+            <Image Name="item_1.png" />
+            <Image Name="item_2.png" />
+            <Image Name="item_3.png" />
+            <Image Name="item_4.png" />
+            <Image Name="item_5.png" />
+            <Image Name="item_6.png" />
+            <Image Name="item_7.png" />
+            <Image Name="jinbi1.png" />
+            <Image Name="jinbi2.png" />
+            <Image Name="signin_duigou.png" />
+            <Image Name="today.png" />
+            <Image Name="ui_biaoti_signin.png" />
+            <Image Name="ui_biaoti_signin_day1.png" />
+            <Image Name="ui_biaoti_signin_day2.png" />
+            <Image Name="ui_biaoti_signin_day3.png" />
+            <Image Name="ui_biaoti_signin_day4.png" />
+            <Image Name="ui_biaoti_signin_day5.png" />
+            <Image Name="ui_biaoti_signin_day6.png" />
+            <Image Name="ui_biaoti_signin_day7.png" />
+            <Image Name="ui_biaoti_signin_diban.png" />
+            <Image Name="ui_biaoti_signin_jindu_01.png" />
+            <Image Name="ui_biaoti_signin_jindu_02.png" />
+            <Image Name="ui_biaoti_signin_jindu_80.png" />
+            <Image Name="ui_biaoti_signin_quan.png" />
+          </Folder>
+          <Folder Name="toy">
+            <Image Name="ani_item_Biao_01.png" />
+            <Image Name="ani_item_Biao_02.png" />
+            <Image Name="ani_item_Biao_03.png" />
+            <Image Name="ani_item_Deng_01.png" />
+            <Image Name="ani_item_Deng_02.png" />
+            <Image Name="ani_item_Deng_03.png" />
+            <Image Name="ani_item_HouZi_01.png" />
+            <Image Name="ani_item_HouZi_02.png" />
+            <Image Name="ani_item_Ma_01.png" />
+            <Image Name="ani_item_Ma_02.png" />
+            <Image Name="ani_item_Ma_03.png" />
+            <Image Name="ani_item_QiGuan_01.png" />
+            <Image Name="ani_item_QiGuan_02.png" />
+            <Image Name="ani_item_QiQiu_Hong_01.png" />
+            <Image Name="ani_item_QiQiu_Hong_02.png" />
+            <Image Name="ani_item_QiQiu_Hong_03.png" />
+            <Image Name="ani_item_QiQiu_Hong_04.png" />
+            <Image Name="ani_item_QiQiu_Hong_05.png" />
+            <Image Name="ani_item_QiQiu_Lv_01.png" />
+            <Image Name="ani_item_QiQiu_Lv_02.png" />
+            <Image Name="ani_item_QiQiu_Lv_03.png" />
+            <Image Name="ani_item_QiQiu_Lv_04.png" />
+            <Image Name="ani_item_QiQiu_Lv_05.png" />
+            <Image Name="ani_item_QiQiu_Zi_01.png" />
+            <Image Name="ani_item_QiQiu_Zi_02.png" />
+            <Image Name="ani_item_QiQiu_Zi_03.png" />
+            <Image Name="ani_item_QiQiu_Zi_04.png" />
+            <Image Name="ani_item_QiQiu_Zi_05.png" />
+            <Image Name="ani_item_Qiu_01.png" />
+            <Image Name="ani_item_Qiu_02.png" />
+            <Image Name="ani_item_Qiu_03.png" />
+            <Image Name="ani_item_Qiu_04.png" />
+            <Image Name="ani_item_Qiu_05.png" />
+            <Image Name="ani_item_Qiu_06.png" />
+            <Image Name="ani_item_Qiu_07.png" />
+            <Image Name="ani_item_zhanshigui_wanju_3_sd.png" />
+            <Image Name="anmo_jindutiao_01.png" />
+            <Image Name="anmo_jindutiao_02.png" />
+            <Image Name="anmo_jindutiao_03.png" />
+            <Image Name="ui_item_GuiZi.png" />
+            <Image Name="ui_item_JiMu_1.png" />
+            <Image Name="ui_item_JiMu_2.png" />
+            <Image Name="ui_item_QiQiu_Hong.png" />
+            <Image Name="ui_item_QiQiu_Hong_1.png" />
+            <Image Name="ui_item_QiQiu_Hong_2.png" />
+            <Image Name="ui_item_QiQiu_Lv.png" />
+            <Image Name="ui_item_QiQiu_Lv_1.png" />
+            <Image Name="ui_item_QiQiu_Lv_2.png" />
+            <Image Name="ui_item_QiQiu_Zi.png" />
+            <Image Name="ui_item_QiQiu_Zi_1.png" />
+            <Image Name="ui_item_QiQiu_Zi_2.png" />
+            <Image Name="ui_item_QiQiuHe_1.png" />
+            <Image Name="ui_item_QiQiuHe_2.png" />
+            <Image Name="ui_item_Xiong.png" />
+          </Folder>
+          <Folder Name="ui_common">
+            <Image Name="common_dashuzi.png" />
+            <Image Name="jiesuan_gold.png" />
+            <Image Name="signin_duigou.png" />
+            <Image Name="store_gold_01.png" />
+            <Image Name="ui_bedroom_surface.png" />
+            <Image Name="ui_bedroom_surface_pointer_01.png" />
+            <Image Name="ui_bedroom_surface_pointer_02.png" />
+            <Image Name="ui_bedroom_surface_shadow.png" />
+            <Image Name="ui_bedroom_surface_spot.png" />
+            <Image Name="ui_biaoti_freecoins.png" />
+            <Image Name="ui_biaoti_reward.png" />
+            <Image Name="ui_biaoti_settings.png" />
+            <Image Name="ui_biaoti_settings_rate.png" />
+            <Image Name="ui_biaoti_settings_share.png" />
+            <Image Name="ui_biaoti_signin_guang.png" />
+            <Image Name="ui_button_free.png" />
+            <Image Name="ui_button_free_tiao.png" />
+            <Image Name="ui_button_free_yugu.png" />
+            <Image Name="ui_button_jifen.png" />
+            <Image Name="ui_button_kanshipin.png" />
+            <Image Name="ui_button_rate.png" />
+            <Image Name="ui_button_shipin.png" />
+            <Image Name="ui_button_xiaoyouxi.png" />
+            <Image Name="ui_common_box.png" />
+            <Image Name="ui_common_button_close.png" />
+            <Image Name="ui_common_button_no.png" />
+            <Image Name="ui_common_button_ok.png" />
+            <Image Name="ui_common_button_yes.png" />
+            <Image Name="ui_common_gold_fishbone.png" />
+            <Image Name="ui_common_superposition.png" />
+          </Folder>
+          <Folder Name="ui_frame">
+            <Image Name="ui_TanKuang_01.png" />
+            <Image Name="ui_TanKuang_02.png" />
+            <Image Name="ui_TanKuang_03.png" />
+          </Folder>
+          <Folder Name="woshi">
+            <Image Name="ani_item_BaiYeChuang_01.png" />
+            <Image Name="ani_item_BaiYeChuang_02.png" />
+            <Image Name="ani_item_BaiYeChuang_03.png" />
+            <Image Name="ani_item_BaiYeChuang_04.png" />
+            <Image Name="ani_item_BaiYeChuang_05.png" />
+            <Image Name="ani_item_BaiYeChuang_06.png" />
+            <Image Name="shou.png" />
+            <Image Name="taideng_01.png" />
+            <Image Name="taideng_02.png" />
+            <Image Name="taideng_03.png" />
+            <Image Name="ui_item_BeiZi.png" />
+            <Image Name="ui_item_BeiZi_2.png" />
+            <Image Name="ui_item_BeiZi_3.png" />
+            <Image Name="ui_item_BeiZi_4.png" />
+            <Image Name="ui_item_Chuang_1.png" />
+            <Image Name="ui_item_Chuang_2.png" />
+            <Image Name="ui_item_Chuang_3.png" />
+            <Image Name="ui_item_Chuang_4.png" />
+            <Image Name="ui_item_NaiZui.png" />
+            <Image Name="ui_item_NaiZui_1.png" />
+            <Image Name="ui_item_NaiZui_2.png" />
+            <Image Name="ui_item_NaiZui_3.png" />
+            <Image Name="ui_item_NaiZui_4.png" />
+            <Image Name="ui_item_NaiZui_5.png" />
+            <Image Name="ui_item_NiaoBu_1.png" />
+            <Image Name="ui_item_NiaoBu_1_underwater.png" />
+            <Image Name="ui_item_NiaoBu_2.png" />
+            <Image Name="ui_item_NiaoBu_2_underwater.png" />
+            <Image Name="ui_item_NiaoBu_3.png" />
+            <Image Name="ui_item_NiaoBu_4.png" />
+            <Image Name="ui_item_NiaoBu_5.png" />
+            <Image Name="ui_item_NiaoBu_6.png" />
+            <Image Name="ui_item_NiaoBuBao_1.png" />
+            <Image Name="ui_item_NiaoBuBao_2.png" />
+            <Image Name="ui_item_NiaoBuBao_3.png" />
+            <Image Name="ui_item_NiaoBuBao_guang.png" />
+            <Image Name="ui_item_Wanju_1.png" />
+            <Image Name="ui_item_Wanju_1_2.png" />
+            <Image Name="ui_item_WanJu_2.png" />
+            <Image Name="ui_item_WanJu_3.png" />
+            <Image Name="ui_item_WanJu_4.png" />
+            <Image Name="ui_item_WanJu_5.png" />
+            <Image Name="ui_item_ZhenTou_1.png" />
+            <Image Name="ui_item_ZhenTou_2.png" />
+            <Image Name="ui_item_ZhenTou_3.png" />
+            <Image Name="ui_item_ZhenTou_4.png" />
+          </Folder>
+          <Folder Name="yushi">
+            <Folder Name="kouqiang">
+              <Image Name="Ani_tankuang_YaChiGuaiWu_1.png" />
+              <Image Name="Ani_tankuang_YaChiGuaiWu_2.png" />
+              <Image Name="Ani_tankuang_YaChiGuaiWu_3.png" />
+              <Image Name="Ani_tankuang_zui.png" />
+              <Image Name="ya_heidina.png" />
+              <Image Name="ya_wugou.png" />
+            </Folder>
+            <Image Name="ani_item_FangDaJing_1.png" />
+            <Image Name="ani_item_FangDaJing_2.png" />
+            <Image Name="ani_item_koubei.png" />
+            <Image Name="ani_item_koubei_heshui_1.png" />
+            <Image Name="ani_item_koubei_heshui_2.png" />
+            <Image Name="ani_item_koubei_heshui_3.png" />
+            <Image Name="ani_item_koubei_xiao.png" />
+            <Image Name="ani_item_PenTou.png" />
+            <Image Name="ani_item_PenTou_Xian.png" />
+            <Image Name="ani_item_PingZi_01.png" />
+            <Image Name="ani_item_PingZi_02.png" />
+            <Image Name="ani_item_PingZi_03.png" />
+            <Image Name="ani_item_PingZi_04.png" />
+            <Image Name="ani_item_YaGao_1.png" />
+            <Image Name="ani_item_YaGao_2.png" />
+            <Image Name="ani_item_YaGao_2_1.png" />
+            <Image Name="ani_item_YaGao_3.png" />
+            <Image Name="ani_item_YaGao_4.png" />
+            <Image Name="ani_item_YaShua.png" />
+            <Image Name="ani_item_YaShua_1.png" />
+            <Image Name="ani_item_YaShua_2.png" />
+            <Image Name="ani_item_YuBa_01.png" />
+            <Image Name="ani_item_YuBa_02.png" />
+            <Image Name="ani_koushui_01.png" />
+            <Image Name="ani_koushui_02.png" />
+            <Image Name="ani_koushui_03.png" />
+            <Image Name="caozuo_kuang.png" />
+            <Image Name="maojin.png" />
+            <Image Name="maojingun.png" />
+            <Image Name="monster_paomo_toufa.png" />
+            <Image Name="ui_item_BanZi.png" />
+            <Image Name="ui_item_BeiZi.png" />
+            <Image Name="ui_item_ChuiFengJi_1.png" />
+            <Image Name="ui_item_ChuiFengJi_2.png" />
+            <Image Name="ui_item_HongSeBaShou.png" />
+            <Image Name="ui_item_LanSeBaShou.png" />
+            <Image Name="ui_item_MaoJin.png" />
+            <Image Name="ui_item_MaoJin_1.png" />
+            <Image Name="ui_item_PenTou.png" />
+            <Image Name="ui_item_QingWa.png" />
+            <Image Name="ui_item_XiaoHuangYa.png" />
+            <Image Name="ui_item_YaShua_01.png" />
+            <Image Name="ui_item_YaShua_02.png" />
+            <Image Name="ui_item_YuGang.png" />
+            <Image Name="ui_prop_flowerbath.png" />
+          </Folder>
+          <Folder Name="zoom">
+            <Image Name="Ani_shuipahuang_01.png" />
+            <Image Name="Ani_shuipahuang_02.png" />
+            <Image Name="Ani_shuipaolv_01.png" />
+            <Image Name="Ani_shuipaolv_02.png" />
+            <Image Name="black_bg.png" />
+            <Image Name="fangdapian.png" />
+            <Image Name="xueban_di.jpg" />
+          </Folder>
+          <Project Name="ani_babysleep.csd" Type="Node" />
+          <Project Name="Ani_BaiYeChuang.csd" Type="Node" />
+          <Project Name="ani_bear.csd" Type="Node" />
+          <Project Name="ani_beizi.csd" Type="Node" />
+          <Project Name="ani_daqi.csd" Type="Node" />
+          <Project Name="ani_fangdajing.csd" Type="Node" />
+          <Project Name="ani_huasa.csd" Type="Node" />
+          <Project Name="ani_jiaobanshao.csd" Type="Node" />
+          <Project Name="Ani_logo.csd" Type="Node" />
+          <Project Name="ani_maipian.csd" Type="Node" />
+          <Project Name="ani_maojin.csd" Type="Node" />
+          <Project Name="ani_mianbao.csd" Type="Node" />
+          <Project Name="ani_milk.csd" Type="Node" />
+          <Project Name="ani_milk_0.csd" Type="Node" />
+          <Project Name="ani_muma.csd" Type="Node" />
+          <Project Name="ani_naiping.csd" Type="Node" />
+          <Project Name="Ani_naozhong.csd" Type="Node" />
+          <Project Name="ani_qiuqiu.csd" Type="Node" />
+          <Project Name="ani_shaozi.csd" Type="Node" />
+          <Project Name="anI_taideng.csd" Type="Node" />
+          <Project Name="ani_tukoushui.csd" Type="Node" />
+          <Project Name="Ani_wanju_bear.csd" Type="Node" />
+          <Project Name="ani_wanju_ma.csd" Type="Node" />
+          <Project Name="ani_yagao.csd" Type="Node" />
+          <Project Name="ani_yashua.csd" Type="Node" />
+          <Project Name="Ani_Yuhua.csd" Type="Node" />
+          <Project Name="ani_zhijin.csd" Type="Node" />
+          <Project Name="qiqiu_hong.csd" Type="Node" />
+          <Project Name="qiqiu_lv.csd" Type="Node" />
+          <Project Name="qiqiu_zi.csd" Type="Node" />
+        </Folder>
+        <Folder Name="zoom">
+          <Image Name="Ani_shuipahuang_01.png" />
+          <Image Name="Ani_shuipahuang_02.png" />
+          <Image Name="Ani_shuipaolv_01.png" />
+          <Image Name="Ani_shuipaolv_02.png" />
+          <Image Name="black_bg.png" />
+          <Image Name="fangdapian.png" />
+          <Image Name="xueban_di.jpg" />
+        </Folder>
+        <Project Name="award.csd" Type="Layer" />
+        <Project Name="baby_boy.csd" Type="Layer" />
+        <Project Name="baby_girl.csd" Type="Layer" />
+        <Project Name="BabyRoom.csd" Type="Layer" />
+        <Project Name="background.csd" Type="Layer" />
+        <Project Name="BuyTip.csd" Type="Layer" />
+        <Project Name="congratulation.csd" Type="Layer" />
+        <Project Name="DiningRoom.csd" Type="Layer" />
+        <Project Name="DressRoom.csd" Type="Layer" />
+        <Project Name="foodmake.csd" Type="Layer" />
+        <Project Name="home.csd" Type="Layer" />
+        <Project Name="Info.csd" Type="Layer" />
+        <Project Name="loading.csd" Type="Layer" />
+        <Project Name="menu.csd" Type="Layer" />
+        <Project Name="MessageBox.csd" Type="Layer" />
+        <Project Name="MuyuRoom.csd" Type="Layer" />
+        <Project Name="MuyuRoom_0.csd" Type="Layer" />
+        <Project Name="Naoling.csd" Type="Layer" />
+        <Project Name="Panel_Zoom.csd" Type="Layer" />
+        <Project Name="panel_zui.csd" Type="Layer" />
+        <Project Name="photo.csd" Type="Layer" />
+        <Project Name="Player.csd" Type="Layer" />
+        <Project Name="playstore.csd" Type="Layer" />
+        <Project Name="video.csd" Type="Layer" />
+        <Project Name="SelectForm.csd" Type="Layer" />
+        <Project Name="settingbox.csd" Type="Layer" />
+        <Project Name="signin.csd" Type="Layer" />
+        <Project Name="store.csd" Type="Layer" />
+        <Project Name="ToyRoom.csd" Type="Layer" />
+        <Project Name="UIChooseColor.csd" Type="Layer" />
+        <Project Name="UIlucky.csd" Type="Layer" />
+        <Project Name="unlockTip.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
